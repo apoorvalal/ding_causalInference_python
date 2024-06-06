@@ -30,3 +30,4 @@ pdf/*
 *.blg
 *.out
 *.synctex.gz
+scratch.ipynb
